@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NEBUKADNEZAR\\Desktop\\ToDo\\ToDo.csproj": {}
+    "C:\\Users\\NEBUKADNEZAR\\AA\\Projeler\\C#\\C# PROJELER\\ToDo\\ToDo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NEBUKADNEZAR\\Desktop\\ToDo\\ToDo.csproj": {
+    "C:\\Users\\NEBUKADNEZAR\\AA\\Projeler\\C#\\C# PROJELER\\ToDo\\ToDo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NEBUKADNEZAR\\Desktop\\ToDo\\ToDo.csproj",
+        "projectUniqueName": "C:\\Users\\NEBUKADNEZAR\\AA\\Projeler\\C#\\C# PROJELER\\ToDo\\ToDo.csproj",
         "projectName": "ToDo",
-        "projectPath": "C:\\Users\\NEBUKADNEZAR\\Desktop\\ToDo\\ToDo.csproj",
+        "projectPath": "C:\\Users\\NEBUKADNEZAR\\AA\\Projeler\\C#\\C# PROJELER\\ToDo\\ToDo.csproj",
         "packagesPath": "C:\\Users\\NEBUKADNEZAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NEBUKADNEZAR\\Desktop\\ToDo\\obj\\",
+        "outputPath": "C:\\Users\\NEBUKADNEZAR\\AA\\Projeler\\C#\\C# PROJELER\\ToDo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

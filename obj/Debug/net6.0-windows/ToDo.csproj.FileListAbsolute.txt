@@ -13,3 +13,18 @@ C:\Users\NEBUKADNEZAR\Desktop\ToDo\obj\Debug\net6.0-windows\refint\ToDo.dll
 C:\Users\NEBUKADNEZAR\Desktop\ToDo\obj\Debug\net6.0-windows\ToDo.pdb
 C:\Users\NEBUKADNEZAR\Desktop\ToDo\obj\Debug\net6.0-windows\ToDo.genruntimeconfig.cache
 C:\Users\NEBUKADNEZAR\Desktop\ToDo\obj\Debug\net6.0-windows\ref\ToDo.dll
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\bin\Debug\net6.0-windows\ToDo.exe
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\bin\Debug\net6.0-windows\ToDo.deps.json
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\bin\Debug\net6.0-windows\ToDo.runtimeconfig.json
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\bin\Debug\net6.0-windows\ToDo.dll
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\bin\Debug\net6.0-windows\ToDo.pdb
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\obj\Debug\net6.0-windows\ToDo.csproj.AssemblyReference.cache
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\obj\Debug\net6.0-windows\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\obj\Debug\net6.0-windows\ToDo.AssemblyInfoInputs.cache
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\obj\Debug\net6.0-windows\ToDo.AssemblyInfo.cs
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\obj\Debug\net6.0-windows\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\obj\Debug\net6.0-windows\ToDo.dll
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\obj\Debug\net6.0-windows\refint\ToDo.dll
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\obj\Debug\net6.0-windows\ToDo.pdb
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\obj\Debug\net6.0-windows\ToDo.genruntimeconfig.cache
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\obj\Debug\net6.0-windows\ref\ToDo.dll

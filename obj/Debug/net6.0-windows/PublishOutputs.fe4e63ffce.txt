@@ -1,0 +1,5 @@
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\bin\Debug\net6.0-windows\publish\ToDo.exe
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\bin\Debug\net6.0-windows\publish\ToDo.dll
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\bin\Debug\net6.0-windows\publish\ToDo.deps.json
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\bin\Debug\net6.0-windows\publish\ToDo.runtimeconfig.json
+C:\Users\NEBUKADNEZAR\AA\Projeler\C#\C# PROJELER\ToDo\bin\Debug\net6.0-windows\publish\ToDo.pdb
