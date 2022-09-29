@@ -32,7 +32,8 @@ partial class Form1
         this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
         this.ClientSize = new System.Drawing.Size(450, 450);
         this.ShowInTaskbar = false;
-        this.ShowIcon = false;
+        this.Icon = new Icon(Application.StartupPath + @"\icon.ico");
+        this.ShowIcon = true;
         this.SuspendLayout();
 
         this.StartPosition = FormStartPosition.CenterScreen;
